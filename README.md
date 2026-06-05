@@ -22,9 +22,9 @@ Source: [Retail Banking Dataset (2020-2025)](https://www.kaggle.com/datasets/sub
 
 ## Architecture
 ![Architecture](assets/architecture_diagram.png)
-- Extracted and loaded raw CSV files into BigQuery Sandbox using PowerShell scripts.
+- Extracted and loaded raw CSV files into BigQuery Sandbox using PowerShell script.
 - Handled missing values and ensured data quality through SQL transformations within the data warehouse.
-- Created SQL views to provide clean, analytics-ready datasets.
+- Created a SQL view to provide clean, analytics-ready dataset.
 - Built an interactive Power BI dashboard to support liquidity and capital analysis.
 
 ## Power BI Dashboard
