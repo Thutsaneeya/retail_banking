@@ -32,8 +32,8 @@ Source: [Retail Banking Dataset (2020-2025)](https://www.kaggle.com/datasets/sub
 
 ## Project Structure
 📁 `retail_banking/`
-    - 📁 `assets`/ → Image
-    - 📁 `power_BI`/ → Final Dashboard
-    - 📁 `sql`/ → SQL scripts
-    - load_to_bq.ps1 → PowerShell script
-    - README.md
+- 📁 `assets`/ → Image
+- 📁 `power_BI`/ → Final Dashboard
+- 📁 `sql`/ → SQL scripts
+- load_to_bq.ps1 → PowerShell script
+- README.md
