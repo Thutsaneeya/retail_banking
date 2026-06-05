@@ -5,10 +5,10 @@ Built an ELT pipeline in BigQuery and created a Power BI dashboard for liquidity
 Source: [Retail Banking Dataset (2020-2025)](https://www.kaggle.com/datasets/subhanu/retail-banking-dataset)
 | Table | Description | Rows|
 |-------|-------------|-----:|
-| customer_profiles | Customer demographics | 1,000 |
-| bank_accounts | Savings, Loan, and Fixed Deposit accounts and their latest status | 3,553 |
-| account_transactions | Full transaction history relating to all accounts | 2,377,169 |
-| transaction_codes | Defines transaction codes used in account_transactions | 15 |
+| **customer_profiles** | Customer demographics | 1,000 |
+| **bank_accounts** | Savings, Loan, and Fixed Deposit accounts and their latest status | 3,553 |
+| **account_transactions** | Full transaction history relating to all accounts | 2,377,169 |
+| **transaction_codes** | Defines transaction codes used in account_transactions | 15 |
 
 ## Data Model
 ![Data Model](assets/data_model.png)
